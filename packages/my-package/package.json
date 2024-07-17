@@ -1,6 +1,6 @@
 {
   "name": "test",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "> TODO: description",
   "author": "linyunhe:linyunhe <your.email@example.com>",
   "homepage": "https://github.com/guitar99776/lerna-demo#readme",
@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/guitar99776/lerna-demo/issues"
   },
-  "gitHead": "1c777c86d59b4f8b774e42c90fe19260e79ce24b"
+  "gitHead": "04b3129e8ce84a2fb2d0cfe900fd5abc7790bb05"
 }
